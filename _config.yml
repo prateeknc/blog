@@ -6,4 +6,5 @@ title: Indian Gaming on YouTube
 description: Find insights on trending Indian gaming YouTube channels
 
 site:
-  github: false
+  github:
+    is_project_page: false
